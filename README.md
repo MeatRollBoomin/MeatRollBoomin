@@ -16,6 +16,23 @@
 
 [![meatrollboomin's GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=meatrollboomin&theme=merko&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div data-importer="socials" align="center">
+  <a href="https://x.com/JittoJimmy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/1084885860606017719" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://instagram.com/aln_seb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:starboyweeknd101@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31wresvlphbx4qftchtd323j772u" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
+  </a>
+</div>
 
 
 <img src="images/projects.png" width="125"><br>
@@ -30,11 +47,19 @@ Take a look at my latest work, including:
   <a href="https://github.com/MeatRollBoomin/NGL-SPY"><img src="images/4.webp" alt="NglSpy" width="48%" /></a>
 </div>
 <p align="center">
+
+<div align="center">
+
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31wresvlphbx4qftchtd323j772u&theme=legacy&width=1000&unique=1&duration=1&album=1)
+</div>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberSecSleuth /CyberSecSleuth/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberSecSleuth/CyberSecSleuth/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/CyberSecSleuth/CyberSecSleuth/output/github-snake-dark.svg" />
 </picture>
+</div>
 </p>
 </ul>
 <img src="images/techStack.png" width="150"><br>
@@ -42,7 +67,9 @@ Take a look at my latest work, including:
 ___
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyberSecSleuth&show_icons=true&locale=en&layout=compact" alt="CyberSecSleuth" /><br> -->
 <p align="center">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="75"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-kotlin-3d-icon-png-download-7578008.png" width="75"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="75"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-3d-icon-png-download-7578017.png" width="75"><img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="75"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="75"><img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="75"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="75"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="75"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mysql-3d-icon-png-download-7578013.png" width="75"><img src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/200w.webp" width="75">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="75"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-kotlin-3d-icon-png-download-7578008.png" width="75"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="75"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-3d-icon-png-download-7578017.png" width="75"><img src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp" width="75"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="75"><img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp" width="75"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="75"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="75"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mysql-3d-icon-png-download-7578013.png" width="75"><img src="https://media1.giphy.com/media/JqDcpPX8vWahUny0pE/200w.webp" width="100">
 </p>
 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/051/591/740/small/stylized-flag-of-india-waving-in-the-wind-on-transparent-background-footer-header-or-divider-cut-out-wide-panoramic-element-banner-for-patriotic-themes-or-national-event-promotions-3d-png.png"><br>
+<div data-importer="border" align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=@MeatRollBoomin&fontSize=60&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+</div>
