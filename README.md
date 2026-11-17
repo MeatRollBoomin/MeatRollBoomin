@@ -22,16 +22,13 @@
 ___
 Take a look at my latest work, including:
 </p>
-<table>
-  <tr>
-    <td><a href="https://github.com/MeatRollBoomin/SebSync"><img src="images/1.webp" alt="Sebsync" width="400" /></a></td>
-    <td><a href="https://github.com/MeatRollBoomin/SeBlue"><img src="images/2.webp" alt="SebBlue" width="400" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/MeatRollBoomin/VENOMSHADE-DISCORD-BOT"><img src="images/3.webp" alt="Venomshade" width="400" /></a></td>
-    <td><a href="https://github.com/MeatRollBoomin/NGL-SPY"><img src="images/4.webp" alt="NglSpy" width="400" /></a></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/MeatRollBoomin/SebSync"><img src="images/1.webp" alt="Sebsync" width="48%" /></a>
+  <a href="https://github.com/MeatRollBoomin/SeBlue"><img src="images/2.webp" alt="SebBlue" width="48%" /></a>
+  <br />
+  <a href="https://github.com/MeatRollBoomin/VENOMSHADE-DISCORD-BOT"><img src="images/3.webp" alt="Venomshade" width="48%" /></a>
+  <a href="https://github.com/MeatRollBoomin/NGL-SPY"><img src="images/4.webp" alt="NglSpy" width="48%" /></a>
+</div>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberSecSleuth /CyberSecSleuth/output/github-snake-dark.svg" />
@@ -49,4 +46,3 @@ ___
 </p>
 
 <img src="https://static.vecteezy.com/system/resources/thumbnails/051/591/740/small/stylized-flag-of-india-waving-in-the-wind-on-transparent-background-footer-header-or-divider-cut-out-wide-panoramic-element-banner-for-patriotic-themes-or-national-event-promotions-3d-png.png"><br>
----
