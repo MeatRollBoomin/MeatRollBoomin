@@ -71,5 +71,5 @@ ___
 </p>
 
 <div data-importer="border" align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=@MeatRollBoomin&fontSize=60&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=@MeatRollBoomin&fontSize=60&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
 </div>
